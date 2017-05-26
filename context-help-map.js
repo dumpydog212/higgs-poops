@@ -1,0 +1,1 @@
+var helpContexts = [{"appname":"", "appid":"favorite_foods", "path":"favorite_foods.html"}]
